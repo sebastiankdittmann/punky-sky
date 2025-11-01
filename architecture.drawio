@@ -276,6 +276,9 @@
         <mxCell id="5tyN6PmcuJxaRgE2hG_J-58" value="Data store" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="5tyN6PmcuJxaRgE2hG_J-63">
           <mxGeometry x="115" y="80" width="60" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="5tyN6PmcuJxaRgE2hG_J-64" value="&lt;h1&gt;Technical concerns&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;How is the screen controlled?&lt;/li&gt;&lt;li&gt;How do you build a UI for a Raspberry Pi screen?&lt;/li&gt;&lt;li&gt;Is the &quot;Artist app&quot; a Web API?&lt;/li&gt;&lt;ul&gt;&lt;li&gt;If not, how does it communicate with the screen app?&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="280" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
